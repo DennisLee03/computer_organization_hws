@@ -1,0 +1,6 @@
+Explaination:
+when N = 2, ratio = 70/150 < 0.5(memory bound)
+when N = 3, ratio = 105/205 > 0.5(CPU bound)
+
+Answer:
+When N = 2, the program is still memory bound.
